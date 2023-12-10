@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Output :
-![qr_code_gen](https://github.com/mahesh0702/React_QR_Code_Generator/assets/97695969/da5fc408-0762-46ac-b241-4ec92f27f292)
+
+![r_qrg](https://github.com/mahesh0702/React_QR_Code_Generator/assets/97695969/3d52fb2e-bb9a-4bcd-928f-2e21ae742a73)
 
 ## Available Scripts
 
