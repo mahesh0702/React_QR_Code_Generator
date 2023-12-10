@@ -1,11 +1,15 @@
 @import url('http://fonts.cdnfonts.com/css/lilly'); 
+body{
+  background-color: rgb(144, 144, 212); 
+}
 .App{ 
 display: flex; 
 flex-direction: column; 
 justify-content: center; 
 align-items: center; 
 gap:1px; 
-padding-top:2px; 
+padding-top:2px;
+background-color: rgb(144, 144, 212); 
 } 
 h1{ 
 font-family: 'Lilly', sans-serif; 
@@ -14,8 +18,8 @@ font-size: 30px;
 .gen input{ 
 height: 30px; 
 width: 255px; 
-font-size: 15px; 
-padding-left: 25px; 
+font-size: 20px; 
+padding-left: 12px; 
 } 
 button{ 
 position: relative; 
@@ -25,8 +29,8 @@ top: 0px;
 font-size: 15px; 
 border: none; 
 color: whitesmoke; 
-background-color: forestgreen; 
-box-shadow: 2px 2px 5px rgb(74, 182, 74); 
+background-color: rgb(35, 70, 224); 
+box-shadow: 2px 2px 5px rgb(30, 32, 156); 
 cursor: pointer; 
 } 
 button:active{ 
